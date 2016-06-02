@@ -14,7 +14,7 @@ We would like you to create an invoicing app. The features it should include:
 
 Your backend can be anything, and does not have to work. If you would like to use a mocked-out interface, that is fine (even static data in code is ok).
 
-## Extra credit features
+#### Extra credit features
 
  - [ ] Add a due date to an invoice
  - [ ] View late invoices, or even better, alert when an invoice is late
